@@ -1,24 +1,84 @@
-<h1>Data Visualization in Excel</h1>
+<h1>Motorcycle Sales Dashboard Analysis</h1>
 
-<h2>Description</h2>
-Objective: Clean and prepare a global layoffs dataset using MySQL to ensure data accuracy, consistency, and usability for analysis. 
-<br><br>
+<h2>Project Overview</h2>
+This project analyzes motorcycle purchasing behavior using customer demographic and lifestyle data. The objective was to identify trends and patterns that influence purchasing decisions and present those findings through an interactive Excel dashboard.
 
-Key Tasks:
+The project demonstrates skills in data cleaning, exploratory data analysis, dashboard development, and business intelligence reporting using Microsoft Excel.
 
-- <b>Removed duplicate records using window functions and Common Table Expressions (CTEs).</b>
-- <b>Standardized company names, locations, industries, and date formats.</b>
-- <b>Identified and resolved null, blank, and inconsistent values.</b>
-- <b>Validated dataset integrity and ensured consistency across records.</b>
-- <b>Produced a clean, analysis-ready database suitable for trend analysis and visualization.</b>
+<h2>Business Problem</h2> 
 
-<b>Outcome:</b> Created a reliable dataset for analyzing worldwide layoffs across industries and regions during 2022–2023, supporting further business intelligence and data visualization initiatives.
+A motorcycle retailer wants to better understand which customer characteristics are associated with motorcycle purchases. By analyzing customer demographics and purchasing behavior, the business can improve marketing efforts and target high-potential customer segments.
+
+<h2>Dataset</h2> 
+
+The dataset contains customer information including:
+<br />
+- Marital Status
+- Gender
+- Income
+- Number of Children
+- Education Level
+- Occupation
+- Home Ownership Status
+- Number of Cars Owned
+- Commute Distance
+- Region
+- Age
+- Age Bracket
+- Motorcycle Purchase Status
+
+<h2>Data Preparation</h2> 
+
+Data cleaning and transformation activities included:
+<br />
+- Reviewing data quality and consistency
+- Standardizing categorical fields
+- Creating age brackets for demographic analysis
+- Preparing data for Pivot Table reporting
+- Organizing worksheets for analysis and dashboard creation
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Analysis Performed</h2>
 
-- <b>MySQL, MySQL Workbench, SQL Window Functions, CTEs</b> 
-- <b>Data Cleaning and Transformation</b>
+Several Pivot Tables and Pivot Charts were created to evaluate:
+- <b> Income Analysis: </b> 
+  -  Compared average income levels between customers who purchased motorcycles and those who did not. 
+- <b> Commute Distance Analysis: </b>
+  -  Evaluated whether commute distance influences motorcycle purchasing decisions.
+- <b> Age Group Analysis: </b>
+  -  Segmented customers into age brackets to determine which age groups were most likely to purchase motorcycles.
+- <b> Demographic Analysis: </b>
+  -  Investigated purchasing behavior across gender and other customer attributes.
+
+<h2>Dashboard Features</h2> 
+
+- Interactive dashboard interface
+- Pivot Charts for visual storytelling
+- Slicers for dynamic filtering
+- Customer segmentation analysis
+- Multiple demographic comparisons
+- Easy-to-interpret business insights
+
+<h2>Key Findings</h2> 
+
+- Income appears to be a strong factor in motorcycle purchasing behavior.
+- Middle-aged customers represent the largest purchasing segment.
+- Commute distance shows a measurable relationship with purchase activity.
+- Demographic segmentation reveals identifiable customer groups with higher purchase likelihood.
+
+<h2>Project Outcome</h2> 
+
+The final dashboard transforms raw customer data into actionable business intelligence, allowing stakeholders to quickly identify purchasing trends and customer segments that may benefit from targeted marketing strategies.
+
+<h2>Tools Used </h2>
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
 
 <h2>Environments Used </h2>
 
