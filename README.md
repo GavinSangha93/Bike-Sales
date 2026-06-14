@@ -87,16 +87,16 @@ The final dashboard transforms raw customer data into actionable business intell
 <h2>Program walk-through:</h2>
 
 <p align="center">
-
-<img src="https://imgur.com/BDNl1kq.png" height="50%" width="50%"/>
+Raw Dataset and a Data Cleaning / Transformation Sheet labeled as Working Sheet <br/>
+<img src="https://imgur.com/XdNNVuI.png" height="50%" width="50%"/>
 <br />
 <br />
 
-<img src="https://imgur.com/Dq12Tp5.png" height="50%" width="50%" />
+<img src="https://imgur.com/lciJTPg.png" height="50%" width="50%" />
 <br />
 <br />
 
-<img src="https://imgur.com/fz1aha2.png" height="50%" width="50%" />
+<img src="https://imgur.com/waOm2zr.png" height="50%" width="50%" />
 <br />
 <br />
 
