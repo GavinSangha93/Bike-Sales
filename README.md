@@ -84,53 +84,41 @@ The final dashboard transforms raw customer data into actionable business intell
 
 - <b>Windows 10</b> (22H2)
 
-<h2>Program walk-through:</h2>
+<h2>Analysis:</h2>
 
 <p align="center">
-Raw Dataset and a Data Cleaning / Transformation Sheet labeled as Working Sheet <br/>
+<b>1)   Raw Dataset and a Data Cleaning / Transformation Sheet labeled as Working Sheet <br/>
 <img src="https://imgur.com/XdNNVuI.png" height="50%" width="50%"/>
 <br />
 <br />
+<br />
 
+<b>2)   Customers who purchased motorcycles generally exhibited higher average income levels, suggesting purchasing power plays a significant role in motorcycle buying decisions  
 <img src="https://imgur.com/lciJTPg.png" height="50%" width="50%" />
-<br />
-<br />
-
 <img src="https://imgur.com/waOm2zr.png" height="50%" width="50%" />
 <br />
 <br />
-
-<img src="https://imgur.com/u9urF6V.png" height="50%" width="50%" />
-<br />
 <br />
 
-<img src="https://imgur.com/ekBihGl.png" height="50%" width="50%" />
+<b>3)   Analysis revealed differences in motorcycle purchasing behavior across commute distance categories, highlighting lifestyle factors that may influence purchasing decisions. <br />
+<img src="https://imgur.com/yTibprT.png" height="50%" width="50%" />
+<img src="https://imgur.com/9SHgbkj.png" height="50%" width="50%" />
 <br />
-<br />
-
-<img src="https://imgur.com/ye12UGr.png" height="50%" width="50%" />
 <br />
 <br />
 
-<img src="https://imgur.com/MycLCo2.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<b>4)   Middle-aged customers represented the largest purchasing segment, indicating a strong concentration of motorcycle buyers within this demographic group. <br />
+<img src="https://imgur.com/37tU8Rt.png" height="50%" width="50%" />
+<img src="https://imgur.com/T70qT55.png" height="50%" width="50%" />
 <br />
 <br /> 
-
-<img src="https://imgur.com/iqco7aA.png" height="50%" width="50%" />
-<br />
 <br />
 
-<img src="https://imgur.com/tMcW7rr.png" height="50%" width="50%" />
+<b>5)   Consolidated key demographic and purchasing metrics into an interactive Excel dashboard using Pivot Charts and slicers, enabling users to dynamically explore customer segments and sales trends. <br />
+<img src="https://imgur.com/CKpQwsd.png" height="50%" width="50%" />
 <br />
 <br />
 
-<img src="https://imgur.com/da8KYp9.png" height="50%" width="50%" />
-<br />
-<br />
-
-<img src="https://imgur.com/SDgTfjy.png" height="50%" width="50%" />
-<br />
-<br />
 </p>
 
 <!--
